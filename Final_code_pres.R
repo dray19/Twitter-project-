@@ -23,10 +23,10 @@ library(grid)
 ########## Connect to API
 create_token(
   app = "Drazen_Zack_first_app",
-  consumer_key = 'Wu7ANSdIZ9yKzBNgTIDPkGlVP',
-  consumer_secret = 'wZxM2r2BONOb4YiVWKiYeCnjpNoUNlgRBjvYMuLxEoRts42SQ7',
-  access_token = '505322834-rTq1H3dT1Pj0Tvu01QkZCU19JIwAif0BPKrE1XOd',
-  access_secret = 'F5fj8Kh8t3KNrPf9EpJ8oerfRsI9zPREvDSyAksNZd5f5')
+  consumer_key = '',
+  consumer_secret = '',
+  access_token = '',
+  access_secret = '')
 ################################
 ##############################################################################################################################################################
 ################# Load saved tweets
