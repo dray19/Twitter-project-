@@ -1,2 +1,2 @@
 # Twitter-project-
-Connecting to twitter API using R and analyzing data for 2020 presidential candidates. Also, the PowerPoint for the project is attached to see results in greater detail.  
+Connecting to twitter API using R and analyzing data for 2020 presidential candidates.Code in “Drazen_Zack_code.R” was used to test the twitter api, clean the data and analyze the data in different formats and visualizations. The file named ‘Final_code_pres.R” is the code used to create the  visualizations that are in the PowerPoint that is also in this repository. “server.R” and “ui.R” is code used to create a R shinny app.  Also, the PowerPoint for the project is attached to see results in greater detail.  
